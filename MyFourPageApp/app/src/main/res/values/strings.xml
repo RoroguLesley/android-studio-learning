@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFour Page App</string>
+    <string name="answer_text">Answer</string>
+    <string name="first_no_hint">Enter first number</string>
+    <string name="second_no_hint">Enter second number</string>
+    <string name="add_btn_text">Add</string>
+    <string name="subtract_btn_text">Subtract</string>
+    <string name="divide_btn_text">Divide</string>
+    <string name="multiply_btn_text">Multiply</string>
+    <string name="tk_btn_sms">SMS</string>
+    <string name="tk_btn_email">Email</string>
+    <string name="tk_btn_camera">Camera</string>
+    <string name="tk_btn_share">Share</string>
+    <string name="tk_btn_mpesa">Mpesa</string>
+    <string name="tk_btn_call">Call</string>
+    <string name="PW_btn_text">Go to web</string>
+</resources>

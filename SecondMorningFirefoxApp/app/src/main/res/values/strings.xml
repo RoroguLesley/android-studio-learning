@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LES_APP</string>
+    <string name="tv_tittle_text">Firefox App</string>
+    <string name="edit_name_hint">Enter name</string>
+    <string name="edit_email_hint">Enter email</string>
+    <string name="edit_number_hint">Enter phone number</string>
+    <string name="edit_password_hint">Enter password</string>
+</resources>

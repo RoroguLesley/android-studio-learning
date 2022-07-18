@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Morning Firefox Calculator</string>
+    <string name="answer_text">Answer</string>
+    <string name="first_no_hint">Enter first number</string>
+    <string name="second_no_hint">Enter second number</string>
+    <string name="add_btn_text">Add</string>
+    <string name="subtract_btn_text">Subtract</string>
+    <string name="divide_btn_text">Divide</string>
+    <string name="multiply_btn_text">Multiply</string>
+</resources>
