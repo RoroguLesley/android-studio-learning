@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67839434500",
+    "project_id": "lesleys-firefox-app-2",
+    "storage_bucket": "lesleys-firefox-app-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67839434500:android:4850246269a21c0108ba51",
+        "android_client_info": {
+          "package_name": "com.example.morningfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67839434500-7cdgvet27va0ho9febjr44etu51nma11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7tGZWpqSPxJFC15sjhH-4AseZaeF7SgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67839434500-7cdgvet27va0ho9febjr44etu51nma11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
