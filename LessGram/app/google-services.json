@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259520595699",
+    "firebase_url": "https://lesleys-firefox-app-default-rtdb.firebaseio.com",
+    "project_id": "lesleys-firefox-app",
+    "storage_bucket": "lesleys-firefox-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259520595699:android:fa6d0c282ccf2a5a169986",
+        "android_client_info": {
+          "package_name": "com.lesley.gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259520595699-rssmkmdv9f58928n06gpoetm6vlk98e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBss-2qZXiNlUQvtb8FOx_jKu5TVD9nS40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259520595699-rssmkmdv9f58928n06gpoetm6vlk98e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
